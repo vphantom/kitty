@@ -3,3 +3,5 @@
 See https://sw.kovidgoyal.net/kitty
 
 This fork was created on 2019-01-19 to fix OSC 52 terminal clipboard support per https://github.com/kovidgoyal/kitty/issues/995
+
+Updated on 2020-07-29 to support Fira Code font's spacing=90 in addition to 100.
